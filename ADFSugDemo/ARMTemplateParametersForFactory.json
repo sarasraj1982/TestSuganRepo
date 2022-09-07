@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADFSugDemo"
+		},
+		"LinkedService_storageaccount_connectionString": {
+			"value": ""
 		}
 	}
 }

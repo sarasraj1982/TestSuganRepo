@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFSugDemo"
 		},
+		"LinkedService_storageaccount_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
